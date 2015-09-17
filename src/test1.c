@@ -29,7 +29,7 @@
 
 /*
  * On board LED blink C example
- *
+ * here be changes made by jln
  * Demonstrate how to blink the on board LED, writing a digital value to an
  * output pin using the MRAA library.
  * No external hardware is needed.
